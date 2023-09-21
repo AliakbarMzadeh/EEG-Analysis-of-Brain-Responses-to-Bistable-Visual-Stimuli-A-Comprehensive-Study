@@ -1,0 +1,11 @@
+Similar results:
+
+"The influence of eye movements on visual perception: A review" by Hoppe and Wachtler (2017)
+"Brain signals predict human perception during continuous flash suppression" by van Boxtel et al. (2010)
+"Brain oscillations and visual perception" by Schurger et al. (2012)
+Different results:
+
+"Multisensory integration in perception: A review" by Ernst and Bülthoff (2004)
+"The role of attention in multisensory perception" by Murray et al. (2002)
+"Neural mechanisms of multisensory perception" by Alais and Burr (2004)
+These articles demonstrate that although there is evidence for the relationship between brain signals and human perception, perception is a complex and multisensory phenomenon that is influenced by multiple factors, including attention and the integration of information from multiple senses. Thus, while studies such as the one described in the summary provide valuable insights, they should be interpreted in the context of the broader literature on multisensory perception and the limitations of their methods and results.
